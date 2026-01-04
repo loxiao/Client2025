@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="用户管理"  android:id="@+id/menu_user" />
+    <item android:title="类型管理"  android:id="@+id/menu_cate" />
+    <item android:title="新闻管理"  android:id="@+id/menu_news" />
+    <item android:title="退出系统"  android:id="@+id/menu_exit" />
+</menu>
